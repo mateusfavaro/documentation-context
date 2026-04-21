@@ -1,0 +1,25 @@
+{
+  "author": "Mateus Favaro",
+  "version": "2.0.0",
+  "language": "pt-BR",
+  "purpose": "Generate learning-focused task documentation with adaptive phases",
+  "entry": "SKILL.md",
+  "references": [
+    "references/discover.md",
+    "references/analyze-task.md",
+    "references/analyze-phases.md",
+    "references/scope-detection.md",
+    "references/write-documentation.md",
+    "references/template-feature.md",
+    "references/template-refactor.md",
+    "references/template-bugfix.md",
+    "references/template-multi-phase.md",
+    "references/template-quick.md",
+    "references/writing-style.md",
+    "references/code-explanation.md",
+    "references/token-efficiency.md",
+    "references/fidelity-rules.md",
+    "references/file-organization.md",
+    "references/quality-checklist.md"
+  ]
+}
